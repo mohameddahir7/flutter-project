@@ -1,5 +1,5 @@
 # sawirada 
-# ku soo gal username:mohamed@gmaail.com
+# ku soo gal username:mohamed@gmail.com
 # password:123
 
 ![1](https://user-images.githubusercontent.com/124419412/216805653-89e818aa-3236-4b59-8b1e-1e53b53f6e53.png)
